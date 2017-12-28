@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySensors</string>
+
+    //Sensors ListView texts
+    <string name="string_sensor_name">Name</string>
+    <string name="string_sensor_manufacture">Manufacture</string>
+    <string name="string_sensor_version">Version</string>
+    <string name="string_sensor_category">Category</string>
+    <string name="string_details">Details:</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MySensors</string>
+    <string name="string_sensor_name">Name</string>
+    <string name="string_sensor_version">Version</string>
+    <string name="string_sensor_category">Kategorie</string>
+    <string name="string_sensor_manufacture">Hersteller</string>
+    <string name="string_details">Details:</string>
+</resources>
